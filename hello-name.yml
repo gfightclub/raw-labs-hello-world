@@ -5,9 +5,9 @@ metadata:
   description: Hello world example
   tags:
     - helloworld
-code: rql
+code: snapi
 declaration: hello_name
-codeFile: hello-fork.rql
+codeFile: hello-fork.snapi
 format: json
 security:
   public: true
